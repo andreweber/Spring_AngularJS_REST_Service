@@ -23,7 +23,7 @@ public class CarServiceImpl_Test
 		
 		//Assert
 		Assert.assertEquals(3, carServiceImpl.getAllCars().size());
-		
+		Assert.assertTrue(true);
 	}
 	
 
