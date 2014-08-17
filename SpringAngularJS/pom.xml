@@ -48,6 +48,7 @@
 
 	<build>
 		<finalName>SpringAngularJS</finalName>
+		<sourceEncoding>UTF-8</sourceEncoding>
 	</build>
 
 </project>
